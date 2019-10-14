@@ -62,10 +62,10 @@ Practicing Scrum will enable you and your team to instantly address change reque
 - Watch the video [Scrum (2 mins watch)](https://youtu.be/TRcReyRYIMg)
 - Watch the video [Intro to Scrum Methods (9 mins watch)](https://www.youtube.com/watch?v=XU0llRltyFM)
 
-### Scrum lexicon
+### Scrum lexicon / Roles in Agile
 - Product Owner - product champions, focused on understanding business and market requirements and prioritizing workflow for engineering teams.
-- Scrum Masters are often confused with project managers.
-- Scrum or development team - self organizes around their work and includes 5 - 7 members. Members have different skill sets and together they forecast how much work they will be able to complete during each sprint, using their previous time to complete as a point of reference.
+- Scrum Masters are often confused with project managers. The scrum master plays a coaching role through facilitating, guiding, and unblocking the team. They are outcomes oriented and hold team members accountable. 
+- Scrum or development team - self organizes around their work and includes 5 - 7 members. Members have different skill sets and together they forecast how much work they will be able to complete during each sprint, using their previous time to complete as a point of reference. They are responsible for planning, design, development, testing, and project delivery.
 
 
 ### Common Mistakes / Misconceptions
